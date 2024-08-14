@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+.box0{
+        font-family: "Matemasie", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        display: flex ;     
+        text-align: center;
+        justify-content: space-evenly;
+}
+h1{
+    position: relative;
+    left: 400px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Matemasie&display=swap');
+p{
+        font-family: "Grey Qo", cursive;
+        font-weight: 400;
+        font-style: normal;      
+}
+
+.box2,.box3,.box4,.box5{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+    width: 200px;
+    height: 200px;
+
+    
+}
+.mari{
+    justify-content: space-around;
+    display:flex;
+    position: relative;
+    top: 20px;
+}
+.hari{
+    justify-content: space-between;
+    display: flex;
+    position: relative;
+    top: 200px;
+}
+.box6,.box7,.box8,.box9{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+    width: 200px;
+    height: 200px;
+
+}
+.guna{
+    justify-content: space-around;
+    display: flex;
+    position: relative;
+    top: 400px;
+}
+.box10,.box11,.box12,.box13{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+    width: 200px;
+    height: 200px;
+
+}
